@@ -39,6 +39,31 @@ button {
     width: 8rem;
 }
 
+header {
+    height: 40rem;
+    background-image: url("https://images.unsplash.com/photo-1563019786-60d26496bc65?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1472&q=80");
+    background-repeat: none;
+    background-position: bottom;
+}
+
+header div div img {
+    width: 300px;
+    border-radius: 50%;
+}
+
+header div div div {
+    background-color: #d6dbd2;
+    width: 40rem;
+    height: 14rem;
+    border-radius: 2rem;
+    padding: 2rem;
+}
+
+header div {
+    padding-top: 2rem;
+}
+
+
 
 
 
