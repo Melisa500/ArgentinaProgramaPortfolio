@@ -1,0 +1,19 @@
+h2 {
+    font-size: 3.5rem;
+    margin: 2.5rem 0;
+}
+
+
+
+section div div img {
+    width: 8rem;
+    background-color: #2c363f;
+    border-radius: 5%;
+}
+
+section div {
+    background-color: #f2f5ea;
+    margin: 1rem;
+    border-radius: 2rem;
+    padding: 0 1rem;
+}
