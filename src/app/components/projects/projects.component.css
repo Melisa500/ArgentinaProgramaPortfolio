@@ -1,0 +1,38 @@
+section {
+    margin: 0 auto 6rem;
+}
+
+h2 {
+    font-size: 3.5rem;
+    margin: 2.5rem 0;
+}
+
+section div {
+    
+    height: 30rem;
+}
+
+section div div div div {
+    background-color: #2c363f;
+    opacity: 0.8;
+    color: white;
+    height: 60%;
+    padding: 2rem;
+    border-radius: 2rem;
+    margin: 4rem 0;
+    font-weight: 300;
+}
+
+a {
+    color: #e75a7c;
+    background-color: #2c363f;
+    font-weight: 900;
+}
+
+h6 {
+    margin: 0 0 1rem 0;
+}
+
+h3 {
+    margin: 0.3rem;
+}
