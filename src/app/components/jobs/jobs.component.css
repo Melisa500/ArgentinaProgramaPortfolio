@@ -15,3 +15,22 @@ section div {
     border-radius: 2rem;
     padding: 0 1rem;
 }
+
+@media (max-width: 768px) {
+
+    h2 {
+        font-size: 2rem;
+        margin: 1.8rem 0;
+    }
+
+    section div div img {
+        width: 6rem;
+        margin: 0;
+    }
+}
+
+@media (max-width: 576px) {
+    section div div img {
+        display: none;
+    }
+}
