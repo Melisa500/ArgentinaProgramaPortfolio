@@ -19,4 +19,8 @@ section div div div {
     h3 {
         font-size: 1.5rem;
     }
+
+    section div div div {
+        margin: 0rem;
+    }
 }
