@@ -1,0 +1,26 @@
+h2 {
+    font-size: 3.5rem;
+    margin: 2.5rem 0;
+}
+
+h3 {
+    margin: 2rem 0;
+}
+
+section div div div {
+    margin: 1rem;
+}
+
+@media (max-width: 768px) { 
+    h2 {
+        font-size: 2rem;
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    section div div div {
+        margin: 0rem;
+    }
+}
